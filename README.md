@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ivan
+- 👀 I’m interested in crypto and nothing more. JK i'm interested in beer too.
+- 🌱 I’m currently learning SQL and about ZK rollups
